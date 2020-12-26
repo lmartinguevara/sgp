@@ -1,2 +1,2 @@
 # sgp
-repositorio de ejemplo sgp
+repositorio de ejemplo sgp desde local
